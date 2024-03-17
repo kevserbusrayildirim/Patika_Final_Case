@@ -1,0 +1,8 @@
+package kevserbusrayildirim.recommenderservice.service;
+
+import kevserbusrayildirim.recommenderservice.model.request.RecommendedRestaurantsRequest;
+import kevserbusrayildirim.recommenderservice.model.response.RecommendedRestaurantsResponse;
+
+public interface RecommenderService {
+    RecommendedRestaurantsResponse getAllRestaurantsByUserLocation(RecommendedRestaurantsRequest request);
+}

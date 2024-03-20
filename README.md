@@ -1,4 +1,4 @@
-# Patika_Final_Case
+# N11 TalendHub Final Case
 ## User Restaurant Recommendation Project
 
 Project Versions:
